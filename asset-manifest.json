@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/magarin213/nwitter/static/css/main.fcba4154.chunk.css",
-    "main.js": "/magarin213/nwitter/static/js/main.e348c0a4.chunk.js",
-    "main.js.map": "/magarin213/nwitter/static/js/main.e348c0a4.chunk.js.map",
-    "runtime-main.js": "/magarin213/nwitter/static/js/runtime-main.41b66e3e.js",
-    "runtime-main.js.map": "/magarin213/nwitter/static/js/runtime-main.41b66e3e.js.map",
-    "static/js/2.3a69e69f.chunk.js": "/magarin213/nwitter/static/js/2.3a69e69f.chunk.js",
-    "static/js/2.3a69e69f.chunk.js.map": "/magarin213/nwitter/static/js/2.3a69e69f.chunk.js.map",
-    "index.html": "/magarin213/nwitter/index.html",
-    "static/css/main.fcba4154.chunk.css.map": "/magarin213/nwitter/static/css/main.fcba4154.chunk.css.map",
-    "static/js/2.3a69e69f.chunk.js.LICENSE.txt": "/magarin213/nwitter/static/js/2.3a69e69f.chunk.js.LICENSE.txt"
+    "main.css": "/nwitter/static/css/main.fcba4154.chunk.css",
+    "main.js": "/nwitter/static/js/main.e348c0a4.chunk.js",
+    "main.js.map": "/nwitter/static/js/main.e348c0a4.chunk.js.map",
+    "runtime-main.js": "/nwitter/static/js/runtime-main.f65ffd80.js",
+    "runtime-main.js.map": "/nwitter/static/js/runtime-main.f65ffd80.js.map",
+    "static/js/2.2b1654d0.chunk.js": "/nwitter/static/js/2.2b1654d0.chunk.js",
+    "static/js/2.2b1654d0.chunk.js.map": "/nwitter/static/js/2.2b1654d0.chunk.js.map",
+    "index.html": "/nwitter/index.html",
+    "static/css/main.fcba4154.chunk.css.map": "/nwitter/static/css/main.fcba4154.chunk.css.map",
+    "static/js/2.2b1654d0.chunk.js.LICENSE.txt": "/nwitter/static/js/2.2b1654d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41b66e3e.js",
-    "static/js/2.3a69e69f.chunk.js",
+    "static/js/runtime-main.f65ffd80.js",
+    "static/js/2.2b1654d0.chunk.js",
     "static/css/main.fcba4154.chunk.css",
     "static/js/main.e348c0a4.chunk.js"
   ]
