@@ -1,7 +1,7 @@
 import { authService } from 'fbase';
 import React, {useState} from 'react'
 
-function AuthForm() {
+function Authform() {
 
   const inputStyles = {};
 
@@ -54,4 +54,4 @@ function AuthForm() {
   )
 }
 
-export default AuthForm
+export default Authform

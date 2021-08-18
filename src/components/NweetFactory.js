@@ -55,7 +55,7 @@ function NweetFactory({ userObj }) {
   const onClearAttachmentClick = () => setAttachment("");
 
   return (
-<form onSubmit={onSubmit} className="factoryForm">
+<form onSubmit={onSubmit} className="factoryform">
       <div className="factoryInput__container">
         <input
           className="factoryInput__input"
@@ -82,14 +82,14 @@ function NweetFactory({ userObj }) {
       />
 
     {attachment && (
-      <div className="factoryForm__attachment">
+      <div className="factoryform__attachment">
           <img
             src={attachment}
             style={{
               backgroundImage: attachment,
             }}
           />
-          <div className="factoryForm__clear" onClick={onClearAttachmentClick}>
+          <div className="factoryform__clear" onClick={onClearAttachmentClick}>
             <span>Remove</span>
             <FontAwesomeIcon icon={faTimes} />
           </div>
